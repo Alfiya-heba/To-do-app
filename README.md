@@ -11,3 +11,5 @@ Technologies Used 🛠️
 HTML5: Structure of the application.
 CSS3: Styling for an appealing design.
 JavaScript: Core functionality and interactivity.
+
+Deployment Link: https://to-do-app-pink-two.vercel.app/
